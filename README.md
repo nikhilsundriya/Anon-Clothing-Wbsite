@@ -1,8 +1,7 @@
 # Anon - Clothing Website
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/nikhil_choudhary25?style=social)](https://twitter.com/nikhil_choudhary25)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Anon is a fully responsive clothing website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
