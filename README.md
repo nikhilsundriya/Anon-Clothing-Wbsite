@@ -1,6 +1,5 @@
-# Anon - An eCommerce Website
+# Anon - Clothing Website
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nikhil_sundriya?style=social)](https://twitter.com/nikhil_sundriya)
 [![Instagram Follow](https://img.shields.io/instagram/follow/nikhil_choudhary25?style=social)](https://twitter.com/nikhil_choudhary25)
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
